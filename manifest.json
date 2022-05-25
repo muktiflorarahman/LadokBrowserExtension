@@ -4,7 +4,6 @@
   "description": "Check your results on Ladok",
   "version": "1.0.0",
   "chrome_url_overrides":{
-    "newtab": "newtab.html"
   },
   "icons": {
     "128": "ladok.png"
